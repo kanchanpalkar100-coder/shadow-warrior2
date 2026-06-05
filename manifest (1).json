@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kanchanpalkar100-coder.github",
+  "orientation": "landscape-primary",
+  "scope": "/",
+  "short_name": "kanchanpalkar100-coder.github",
+  "start_url": "/https://kanchanpalkar100-coder.github.io/shadow-warrior2/",
+  "theme_color": "#ffffff",
+  "lang": "en"
+}
+
+{
+  "name": "Shadow Warrior",
+  "short_name": "Shadow Warrior",
+  "description": "A 2D action adventure game where players battle enemies and survive challenging levels.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
