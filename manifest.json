@@ -1,0 +1,9 @@
+{
+  "name": "Shadow Warrior",
+  "short_name": "Shadow Warrior",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
