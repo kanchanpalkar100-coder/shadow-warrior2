@@ -1,0 +1,25 @@
+{
+  "id": "/shadow-warrior2/",
+  "name": "Shadow Warrior",
+  "short_name": "Shadow Warrior",
+  "description": "A 2D action adventure game where players battle enemies and survive challenging levels.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
